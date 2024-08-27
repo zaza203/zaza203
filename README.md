@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there, I'm Ihimbru Zadolf Ongum 👋
+I'm a final year BEng Software Engineering student at the University of Buea, Cameroon, with a strong passion for building software solutions that make a difference.
 
-<!--
-**zaza203/zaza203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Skills
+Java Mobile Development (Android, Java)
+Web Development: React, React Native, HTML, CSS, JavaScript
+Backend Development: Django Rest Framework, Spring Boot, Node.js
+Mobile App Development: Flutter
+Databases: MySQL, PostgreSQL
+AI & ML Enthusiast
+Version Control: Git, GitHub
+💼 Experience
+Internship at SummitTech | June 2023 - September 2023
+Java Mobile Developer at Buyam | May 2024 - Present
+📫 Let's Connect
+Feel free to reach out to me for collaborations, projects, or just a friendly chat!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
